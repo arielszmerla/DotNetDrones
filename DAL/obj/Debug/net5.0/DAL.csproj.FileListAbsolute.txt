@@ -1,0 +1,12 @@
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\ariel\source\repos\dotNet5782_3783_8330\DAL\obj\Debug\net5.0\DAL.pdb
